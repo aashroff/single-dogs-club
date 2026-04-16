@@ -15,7 +15,6 @@ import '../widgets/about_section.dart';
 import '../widgets/cta_section.dart';
 import '../widgets/landing_nav_bar.dart';
 import '../widgets/landing_footer.dart';
-import '../widgets/tagline_banner.dart';
 import '../widgets/search_your_way_section.dart';
 import '../widgets/extra_sections.dart';
 
